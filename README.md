@@ -2,14 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=210&section=header&text=Ahmed%20Youssef&fontSize=40&fontColor=F2F2F5&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Android%20and%20AI%20Developer&descAlign=50&descAlignY=58&descSize=15&descColor=8E8EA8" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8E8EA8&background=00000000&center=true&vCenter=true&width=520&lines=Native+Android+%7C+Kotlin+%2B+Jetpack+Compose;Offline-First+%7C+Zero-Budget+Architecture" />
+
 <a href="https://www.linkedin.com/in/ahmed-youssef" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
 <a href="mailto:ahmedalmslm74@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
 <a href="https://github.com/qhmed67" target="_blank"><img src="https://img.shields.io/badge/GitHub-0A0A0F?style=for-the-badge&logo=github&logoColor=F2F2F5" /></a>
 
+<a href="https://wa.me/201278954638" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
+
 <img src="https://komarev.com/ghpvc/?username=qhmed67&style=for-the-badge&color=1B1B3A&labelColor=0A0A0F&label=PROFILE+VIEWS" />
 
-<img src="https://img.shields.io/badge/-Open%20to%20Work-3B82F6?style=flat-square" />
-<img src="https://img.shields.io/badge/-Alexandria%2C%20Egypt-8B5CF6?style=flat-square" />
+
 
 <br/>
 
@@ -90,7 +93,7 @@ I diagnose a problem precisely before pointing AI at it — I never vibe-code. I
 
 ### Let's talk.
 
-<a href="https://www.linkedin.com/in/ahmed-youssef-43029a340/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
+<a href="https://www.linkedin.com/in/ahmed-youssef"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
 <a href="mailto:ahmedalmslm74@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
 <a href="https://wa.me/201278954638" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 
