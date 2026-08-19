@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=210&section=header&text=Ahmed%20Youssef&fontSize=40&fontColor=F2F2F5&fontAlignY=38&animation=fadeIn&desc=Full-Stack,%20Android%20%26%20AI%20Developer&descAlign=58&descSize=15&descColor=8E8EA8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=210&section=header&text=Ahmed%20Youssef&fontSize=40&fontColor=F2F2F5&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Android%20%26%20AI%20Developer&descAlign=58&descSize=15&descColor=8E8EA8" />
 
 <a href="https://www.linkedin.com/in/ahmed-youssef" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
 <a href="mailto:ahmedalmslm74@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
@@ -85,16 +85,6 @@ I diagnose a problem precisely before pointing AI at it — I never vibe-code. I
 <tr><td><b>Now</b></td><td align="left">Zero-budget AI media pipelines, hybrid serverless + on-device systems</td></tr>
 <tr><td><b>Next</b></td><td align="left">Agentic AI systems and native Android ML pipelines</td></tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:0A0A0F&height=2" />
-
-## Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=qhmed67&show_icons=true&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=8E8EA8&icon_color=8B5CF6&text_color=D6D6E0" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qhmed67&theme=dark&hide_border=true&background=0A0A0F&stroke=0A0A0F&ring=3B82F6&fire=8B5CF6&currStreakLabel=D6D6E0" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qhmed67&layout=compact&theme=dark&hide_border=true&bg_color=0A0A0F&title_color=8E8EA8&text_color=D6D6E0" width="40%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qhmed67&theme=github-compact&hide_border=true&bg_color=0A0A0F&color=8B5CF6&line=3B82F6&point=D6D6E0" width="58%" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0F,100:0A0A0F&height=2" />
 
