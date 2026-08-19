@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=210&section=header&text=Ahmed%20Youssef&fontSize=40&fontColor=F2F2F5&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Android%20%26%20AI%20Developer&descAlign=58&descSize=15&descColor=8E8EA8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=210&section=header&text=Ahmed%20Youssef&fontSize=40&fontColor=F2F2F5&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Full-Stack%2C%20Android%20and%20AI%20Developer&descAlign=50&descAlignY=58&descSize=15&descColor=8E8EA8" />
 
 <a href="https://www.linkedin.com/in/ahmed-youssef" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
 <a href="mailto:ahmedalmslm74@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
@@ -90,8 +90,9 @@ I diagnose a problem precisely before pointing AI at it — I never vibe-code. I
 
 ### Let's talk.
 
-<a href="https://www.linkedin.com/in/ahmed-youssef"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
+<a href="https://www.linkedin.com/in/ahmed-youssef-43029a340/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0F?style=for-the-badge&logo=linkedin&logoColor=3B82F6" /></a>
 <a href="mailto:ahmedalmslm74@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0F?style=for-the-badge&logo=gmail&logoColor=8B5CF6" /></a>
+<a href="https://wa.me/201278954638" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-0A0A0F?style=for-the-badge&logo=whatsapp&logoColor=25D366" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0F,50:1B1B3A,100:0A0A0F&height=110&section=footer" />
 
